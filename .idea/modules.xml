@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Multicast-DNS.iml" filepath="$PROJECT_DIR$/Multicast-DNS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MulticastDNS.iml" filepath="$PROJECT_DIR$/.idea/modules/MulticastDNS.iml" group="MulticastDNS" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="MulticastDNS/app" />
     </modules>
   </component>
 </project>

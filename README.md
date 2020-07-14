@@ -4,7 +4,6 @@ Sample project to multicast DNS resolution in the local network.
 ### Device must connected with same network
 ## How to use this sample project app.
 
-> Install the build in your android phone (for best result please install this build in minimum 2 device)
 
 > Tap on publish button to register on local network
 
